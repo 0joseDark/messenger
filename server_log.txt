@@ -1,0 +1,7 @@
+jose (('127.0.0.1', 49445)) entrou no chat.
+jose: oi
+jose: oi
+jose (('127.0.0.1', 49546)) entrou no chat.
+raposo (('127.0.0.1', 49578)) entrou no chat.
+raposo: oi
+jose: oi
