@@ -5,3 +5,16 @@ jose (('127.0.0.1', 49546)) entrou no chat.
 raposo (('127.0.0.1', 49578)) entrou no chat.
 raposo: oi
 jose: oi
+jose (('127.0.0.1', 49786)) entrou no chat.
+raposo (('127.0.0.1', 49795)) entrou no chat.
+raposo (('127.0.0.1', 49809)) entrou no chat.
+jose (('127.0.0.1', 50040)) entrou no chat.
+raposo (('127.0.0.1', 50046)) entrou no chat.
+jose (('127.0.0.1', 50199)) entrou no chat.
+raposo (('127.0.0.1', 50203)) entrou no chat.
+jose (('127.0.0.1', 50218)) entrou no chat.
+raposo: oi
+jose (('127.0.0.1', 50330)) entrou no chat.
+raposo (('127.0.0.1', 50333)) entrou no chat.
+jose: oi
+raposo: oi
