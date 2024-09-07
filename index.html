@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cliente de Chat</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Chat Cliente</h2>
+        
+        <!-- Formulário de login -->
+        <div id="login-section">
+            <input type="text" id="username" placeholder="Usuário">
+            <input type="password" id="password" placeholder="Senha">
+            <button id="connect-btn">Ligar ao Servidor</button>
+        </div>
+
+        <!-- Configurações de host e porta -->
+        <div id="config-section">
+            <input type="text" id="host" value="127.0.0.1" placeholder="Host">
+            <input type="text" id="port" value="5000" placeholder="Porta">
+        </div>
+
+        <!-- Chat -->
+        <div id="chat-section" class="hidden">
+            <div id="chat-log"></div>
+            <input type="text" id="recipient" placeholder="Destinatário (para mensagens privadas)">
+            <input type="text" id="message" placeholder="Digite sua mensagem">
+            <button id="send-btn">Enviar</button>
+            <button id="disconnect-btn">Desligar</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
