@@ -85,6 +85,6 @@ def criar_interface_cliente():
     root.mainloop()
 
 if __name__ == "__main__":
-    HOST = '127.0.0.1'
+    HOST = '192.168.0.11'
     PORT = 5000
     criar_interface_cliente()
